@@ -10,6 +10,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | LeetCode # | Difficulty | Problem | Solution |
 |------------|------------|---------|----------|
 | 2667 | Easy | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](closures/2667.js) |
+| 2620 | Easy | [Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](closures/2620.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
