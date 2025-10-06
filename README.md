@@ -19,6 +19,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 |------------|------------|---------|----------|
 | 2635 | Easy | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](basic-array-transformations/2635.js) |
 | 2634 | Easy | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](basic-array-transformations/2634.js) |
+| 2626 | Easy | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](basic-array-transformations/2626.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
