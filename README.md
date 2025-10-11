@@ -29,5 +29,10 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2666 | Easy | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](function-transformations/2666.js) |
 | 2623 | Medium | [Memoize](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](function-transformations/2623.js) |
 
+### Promises and Time
+| LeetCode # | Difficulty | Problem | Solution |
+|------------|------------|---------|----------|
+| 2723 | Easy | [Add Two Promises](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2723.js) |
+
 ## License
 Licensed under the [MIT License](./LICENSE).
