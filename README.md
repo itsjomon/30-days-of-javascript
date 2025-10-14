@@ -35,6 +35,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2723 | Easy | [Add Two Promises](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2723.js) |
 | 2621 | Easy | [Sleep](https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2621.js) |
 | 2715 | Easy | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2715.js) |
+| 2725 | Easy | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2725.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
