@@ -39,6 +39,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2637 | Medium | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2637.js) |
 | 2622 | Medium | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2622.js) |
 | 2627 | Medium | [Debounce](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2627.js) |
+| 2721 | Medium | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2721.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
