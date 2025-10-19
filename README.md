@@ -41,5 +41,10 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2627 | Medium | [Debounce](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2627.js) |
 | 2721 | Medium | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](promises-and-time/2721.js) |
 
+### JSON
+| LeetCode # | Difficulty | Problem | Solution |
+|------------|------------|---------|----------|
+| 2727 | Easy | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2727.js) |
+
 ## License
 Licensed under the [MIT License](./LICENSE).
