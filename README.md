@@ -45,6 +45,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | LeetCode # | Difficulty | Problem | Solution |
 |------------|------------|---------|----------|
 | 2727 | Easy | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2727.js) |
+| 2677 | Easy | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2677.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
