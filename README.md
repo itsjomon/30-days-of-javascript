@@ -1,6 +1,4 @@
 # 30 Days of JavaScript
-> If you find this repository useful, **please give it a star!** ⭐
-
 This repository contains solutions for the [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) Study Plan on LeetCode, a focused journey to master JavaScript fundamentals.
 
 ## Problem List
@@ -47,6 +45,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2727 | Easy | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2727.js) |
 | 2677 | Easy | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2677.js) |
 | 2619 | Easy | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2619.js) |
+| 2631 | Medium | [Group By](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2631.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
