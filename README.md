@@ -46,6 +46,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2677 | Easy | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2677.js) |
 | 2619 | Easy | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2619.js) |
 | 2631 | Medium | [Group By](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2631.js) |
+| 2724 | Easy | [Sort By](https://leetcode.com/problems/sort-by/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2724.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
