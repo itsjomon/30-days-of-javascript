@@ -49,6 +49,7 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2724 | Easy | [Sort By](https://leetcode.com/problems/sort-by/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2724.js) |
 | 2722 | Medium | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2722.js) |
 | 2625 | Medium | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2625.js) |
+| 2705 | Medium | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2705.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
