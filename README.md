@@ -2,7 +2,6 @@
 This repository contains solutions for the [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) Study Plan on LeetCode, a focused journey to master JavaScript fundamentals.
 
 ## Problem List
-> _✨ This table will continue to grow as new solutions are added._
 
 ### Closures
 | LeetCode # | Difficulty | Problem | Solution |
@@ -50,6 +49,13 @@ This repository contains solutions for the [30 Days of JavaScript](https://leetc
 | 2722 | Medium | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2722.js) |
 | 2625 | Medium | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2625.js) |
 | 2705 | Medium | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](json/2705.js) |
+
+### Classes
+| LeetCode # | Difficulty | Problem | Solution |
+|------------|------------|---------|----------|
+| 2694 | Medium | [Event Emitter](https://leetcode.com/problems/event-emitter/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](classes/2694.js) |
+| 2695 | Easy | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](classes/2695.js) |
+| 2726 | Easy | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Code](classes/2726.js) |
 
 ## License
 Licensed under the [MIT License](./LICENSE).
